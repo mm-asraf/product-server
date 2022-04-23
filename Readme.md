@@ -4,7 +4,7 @@ we will create and host a fake product db server that we can deal with it as a n
 
 # 1.Creating the Fake Server.
 
-> You can download the final result [HERE](hhttps://github.com/mm-asraf/product-server), Or follow along with me.
+> You can download the final result [HERE](https://github.com/mm-asraf/product-server), Or follow along with me.
 
 - Create a folder and name it `fake-server`.
 - Open the terminal and init npm, and make the entry point `server.js`
@@ -71,12 +71,12 @@ git add .
 git push --set-upstream origin master
 ```
 
-> Download the final Repo from [HERE](https://github.com/YoussefZidan/fake-server)
+> Download the final Repo from [HERE](https://github.com/mm-asraf/product-server)
 
 # 2. Creating the DataBase
 
 - Create `db.json` file
-- Fill in any data you like, I use [Mockaroo](https://www.mockaroo.com/) to generate dummy data.
+- Fill in any data you like, I used to fill some data you can use [Mockaroo](https://www.mockaroo.com/) to generate dummy data.
 
 db.json
 
