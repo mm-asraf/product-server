@@ -68,7 +68,7 @@ server.listen(port);
 git init
 git remote add origin https://github.com/<YourName>/<Repo-Name>.git
 git add .
-git push --set-upstream origin master
+git push  origin master
 ```
 
 > Download the final Repo from [HERE](https://github.com/mm-asraf/product-server)
